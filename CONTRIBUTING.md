@@ -15,10 +15,10 @@ If you find a security vulnerability, do **NOT** open an issue. Email security@m
 
 You'll find all information on our GitHub workflow in our [Wiki](https://github.com/mRemoteNG/mRemoteNG/wiki), or you can use these links:
 
-- [Branches]()
-- [Bug repots]()
-- [Feauture requests]()
-- [Pull Requests]()
+- [Branches](https://github.com/mRemoteNG/mRemoteNG/wiki/Branches)
+- [Bug Repots](https://github.com/mRemoteNG/mRemoteNG/wiki/Bug-Reports)
+- [Feauture Requests](https://github.com/mRemoteNG/mRemoteNG/wiki/Feature-Requests)
+- [Pull Requests](https://github.com/mRemoteNG/mRemoteNG/wiki/Pull-Requests)
 
 Want to help but don't know where to start? Check out the issues that we've labeled with [`Help Wanted`](https://github.com/mRemoteNG/mRemoteNG/issues?q=is%3Aissue+is%3Aopen+label%3A%22Help+Wanted%22) or [`ready`](https://github.com/mRemoteNG/mRemoteNG/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22ready%22). These will vary in difficulty, but should be possible for new contributors.
 Even if you don't know C# you can heck out the issues that we've labeled with [`Documentation`](https://github.com/mRemoteNG/mRemoteNG/labels/Documentation).
