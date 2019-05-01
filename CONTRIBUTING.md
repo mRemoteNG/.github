@@ -33,7 +33,9 @@ Feature requests are great! Take some time to compose a well thought out proposa
 - If applicable, consider including visual mock-ups to show us what you mean.
 
 ## Pull requests
-Good pull requests are a huge help! If you haven't already, please consider reading [GitHub's guide to contributing to open source](https://guides.github.com/activities/contributing-to-open-source/)
+Good pull requests are a huge help! If you haven't already, please consider reading [GitHub's guide to contributing to open source](https://guides.github.com/activities/contributing-to-open-source/).
+Pull requests that are targeting the master branch directly are not allowed.
+Always merge into develop or a current feature branch.
 
 Our requests when it comes to pull requests:
 - Be clear about what your PR seeks to do.
