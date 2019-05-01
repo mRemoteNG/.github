@@ -44,11 +44,6 @@ Our requests when it comes to pull requests:
 - Please talk with one of the project maintainers before starting work on large pull requests. Otherwise, you run the risk of putting a lot of time into a feature or refactor that gets denied.
 - If you have access to Static Code Analysis tools (like ReSharper), please don't analyze/fix everything in one giant PR. As great as these tools are, they can sometimes cause unintended problems.
 
-# Code Style
-- Please make use of simple types and var where possible
-- Prefer "using" over .Dispose()
-- Avoid nesting "using"
-
 # Your first contributions
 Want to help but don't know where to start? Check out the issues that we've labeled with [`Help Wanted`](https://github.com/mRemoteNG/mRemoteNG/issues?q=is%3Aissue+is%3Aopen+label%3A%22Help+Wanted%22) or [`ready`](https://github.com/mRemoteNG/mRemoteNG/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22ready%22). These will vary in difficulty, but should be possible for new contributors.
 
