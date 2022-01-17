@@ -1,0 +1,5 @@
+name: 'post2reddit'
+
+on:
+  release:
+    types: [published]
